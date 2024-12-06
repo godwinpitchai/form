@@ -29,7 +29,7 @@ body{
     color: white;
 
 }
-.form-group input, .form-group textarea, .form-group select{
+.form-group input, .form-group text, .form-group select{
     width: 95%;
     padding: 8px;
     border: 1px solid wheat;
